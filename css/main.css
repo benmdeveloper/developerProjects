@@ -1,0 +1,17 @@
+body,html{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+.gray{
+    background-color: #d5cac7;
+}
+.red{
+    background-color: #ea5a2e;
+}
+.green{
+    background-color: #55ec27;
+}
+.blue{
+    background-color: #277cec;
+}
