@@ -63,3 +63,10 @@ body,html{
 .menu_text{
     transition: 0.3s;
 }
+#lower_text{
+    position: absolute;
+    bottom: 14%;
+    left: 38%;
+    color: whitesmoke;
+    font-family:'BVahidBold',Sans-Serif;
+}
