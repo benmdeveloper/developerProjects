@@ -21,6 +21,29 @@ body,html{
     color: whitesmoke;
     font-size: 17px;
 }
+#menu2{
+    position: absolute;
+    bottom: 235px;
+    left: 660px;
+}
+#cir1{
+    background-color: whitesmoke;
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+}
+#cir2{
+    background-color: whitesmoke;
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+}
+#cir3{
+    background-color: whitesmoke;
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+}
 #upper_text{
     position: absolute;
     top: 280px;
