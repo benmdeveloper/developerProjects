@@ -31,18 +31,21 @@ body,html{
     border-radius: 50px;
     height: 100px;
     width: 100px;
+    border-bottom: solid rgb(105, 41, 32) 3px;
 }
 #cir2{
     background-color: rgb(0,149,132);
     border-radius: 50px;
     height: 100px;
     width: 100px;
+    border-bottom: solid rgb(0, 105, 89) 3px;
 }
 #cir3{
     background-color: rgb(247,148,29);
     border-radius: 50px;
     height: 100px;
     width: 100px;
+    border-bottom: solid rgb(105, 52, 26) 3px;
 }
 #upper_text{
     position: absolute;
