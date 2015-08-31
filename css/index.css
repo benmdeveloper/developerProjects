@@ -70,3 +70,23 @@ body,html{
     color: whitesmoke;
     font-family:'BVahidBold',Sans-Serif;
 }
+.t1:hover{
+    font-size: 25px;
+    position: relative;
+    bottom: -5px;
+}
+.t2:hover{
+    font-size: 25px;
+    position: relative;
+    bottom: -5px;
+}
+.t3:hover{
+    font-size: 25px;
+    position: relative;
+    bottom: -5px;
+}
+.t4:hover{
+    font-size: 25px;
+    position: relative;
+    bottom: -5px;
+}
