@@ -25,7 +25,7 @@ body,html{
 #menu2{
     position: absolute;
     top: 58%;
-    left: 41%;
+    left: 40%;
 }
 #cir1{
     background-color: rgb(218,70,56);
@@ -46,12 +46,12 @@ body,html{
     border-radius: 50px;
     height: 100px;
     width: 100px;
-    border-bottom: solid rgb(105, 52, 26) 3px;
+    border-bottom: solid rgb(105, 52, 26) 3px ;
 }
 #upper_text{
     position: absolute;
-    top: 33%;
-    left: 35.5%;
+    top: 30%;
+    left: 34%;
     color: whitesmoke;
     font-family:'BVahidBold',Sans-Serif;
 }
