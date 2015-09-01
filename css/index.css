@@ -93,10 +93,14 @@ body,html{
     position: relative;
     bottom: -5px;
 }
-#l_text1{
-    visibility: visible;
-}
-#l_text2{
+#cir1_text{
     visibility: hidden;
-    left: 40%;
+    left: 42%;
+}
+#cir2_text{
+    visibility: hidden;
+    left: 40.5%;
+}
+#cir3_text{
+    visibility: visible;
 }
