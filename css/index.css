@@ -16,6 +16,7 @@ body,html{
     height: 35%;
     bottom: 0%;
     background-color: rgb(28,28,28);
+    transition: 0.5s;
 }
 #menu{
     color: white;
@@ -103,4 +104,8 @@ body,html{
 }
 #cir3_text{
     visibility: visible;
+}
+#lower_page:hover{
+    opacity: 0.97;
+    transition: 0.5s;
 }
