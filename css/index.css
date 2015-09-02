@@ -115,12 +115,12 @@ body,html{
     height: 40px;
     left: 31%;
     top: 30%;
-    transition: 0.5s;
+    transition: 0.2s;
 }
 .menu2_pic:hover{
     width: 45px;
     height: 45px;
     left: 28.5%;
     top: 29%;
-    transition: 0.5s;
+    transition: 0.2s;
 }
